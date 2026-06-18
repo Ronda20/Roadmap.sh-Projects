@@ -8,3 +8,4 @@ Galery of projects from roadmap.sh
 [Pricing Comparison Table](https://roadmap.sh/projects/pricing-comparison-table) //
 [Single Page CV](https://roadmap.sh/projects/single-page-cv) //
 [Blog Post Page](https://roadmap.sh/projects/blog-post-page) //
+[Photo Showcase](https://roadmap.sh/projects/photo-showcase) //
